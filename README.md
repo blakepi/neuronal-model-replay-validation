@@ -1,5 +1,7 @@
 # Numerical validation for cell-matched neuronal model replay
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21483417.svg)](https://doi.org/10.5281/zenodo.21483417)
+
 This repository tests stimulus delivery, initialized-state stability, and outcome eligibility in
 cell-matched neuronal model replay.
 
@@ -47,5 +49,6 @@ They must be retrieved from their original URLs using `data_manifest/allen_asset
 terms and citation requirements remain applicable. The package verifies the included publication
 outputs but does not reproduce the complete Allen-data workflow from source payloads.
 
-Software citation metadata are in [CITATION.cff](CITATION.cff). Deposit metadata are in
-`.zenodo.json`; no DOI is claimed until a release is deposited.
+Software citation metadata are in [CITATION.cff](CITATION.cff). The
+[Zenodo concept DOI](https://doi.org/10.5281/zenodo.21483417) resolves to the latest release; cite
+the version-specific DOI associated with the exact software version used for an analysis.
