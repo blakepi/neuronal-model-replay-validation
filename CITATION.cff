@@ -4,7 +4,7 @@ message: >-
   methods paper when available. Cite Allen-derived inputs using their source identifiers.
 title: Numerical Validation for Cell-Matched Neuronal Model Replay
 type: software
-version: 0.2.0
+version: 0.2.1
 authors:
   - family-names: Pierpoint
     given-names: G. Blake

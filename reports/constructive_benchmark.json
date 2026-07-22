@@ -427,9 +427,9 @@
       "all_criteria_met": true,
       "benchmark_waveform": "midpoint_between_solver_steps",
       "boundary_amplitude_criterion_met": true,
-      "charge_error_nA_ms": 0.0,
+      "charge_error_nA_ms": 6.938893903907228e-18,
       "current_playback_method": "fixed_step_boundary_sampling",
-      "delivered_charge_nA_ms": 0.037500000000000006,
+      "delivered_charge_nA_ms": 0.03750000000000001,
       "interval_charge_criterion_met": true,
       "pulse_details": [
         {
@@ -1354,9 +1354,9 @@
       "all_criteria_met": true,
       "benchmark_waveform": "midpoint_between_solver_steps",
       "boundary_amplitude_criterion_met": true,
-      "charge_error_nA_ms": 0.0,
+      "charge_error_nA_ms": 6.938893903907228e-18,
       "current_playback_method": "event_scheduled_transitions",
-      "delivered_charge_nA_ms": 0.037500000000000006,
+      "delivered_charge_nA_ms": 0.03750000000000001,
       "interval_charge_criterion_met": true,
       "pulse_details": [
         {
@@ -1524,7 +1524,7 @@
   ],
   "schema_version": "2.0.0",
   "software": {
-    "package_version": "0.2.0"
+    "package_version": "0.2.1"
   },
   "summaries": [
     {

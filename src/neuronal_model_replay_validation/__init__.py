@@ -14,7 +14,7 @@ from .validation import (
     write_json_report,
 )
 
-__version__ = "0.2.0"
+__version__ = "0.2.1"
 
 __all__ = [
     "BENCHMARK_WAVEFORMS",

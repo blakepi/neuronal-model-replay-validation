@@ -316,7 +316,7 @@ def scientific_checks(root: Path) -> tuple[list[Check], dict[str, Any]]:
         bool(lookup[("fixed_step_boundary_sampling", 0.005)]["all_waveforms_meet_all_criteria"])
         and report["schema_version"] == "2.0.0"
         and "runtime_seconds" not in report
-        and report["software"] == {"package_version": "0.2.0"},
+        and report["software"] == {"package_version": "0.2.1"},
         f"summary={lookup[(('fixed_step_boundary_sampling'), 0.005)]}; deterministic schema={report['schema_version']}",
     )
     add(
