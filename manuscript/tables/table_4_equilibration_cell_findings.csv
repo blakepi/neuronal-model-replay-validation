@@ -1,0 +1,7 @@
+specimen_id,case_count,original_period_stable_cases,original_period_drifting_cases,extended_period_converged_cases,material_change_criterion_met_cases,summary_across_recording_selections
+314822529,4,0,4,4,3,at least one material-change criterion met
+324493977,4,0,4,4,3,at least one material-change criterion met
+471087830,4,0,4,4,3,at least one material-change criterion met
+475585413,4,0,4,4,4,at least one material-change criterion met
+473943881,4,0,4,4,4,at least one material-change criterion met
+464188580,4,0,4,4,3,at least one material-change criterion met

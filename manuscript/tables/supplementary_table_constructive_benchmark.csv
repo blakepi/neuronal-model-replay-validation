@@ -1,0 +1,6 @@
+current_playback_method,solver_dt_ms,waveform_count,waveforms_meeting_all_criteria,all_waveforms_meet_all_criteria
+event_scheduled_transitions,,5,5,True
+fixed_step_boundary_sampling,0.0025,5,5,True
+fixed_step_boundary_sampling,0.005,5,5,True
+fixed_step_boundary_sampling,0.0125,5,3,False
+fixed_step_boundary_sampling,0.025,5,3,False

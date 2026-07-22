@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3600" height="3000" viewBox="0 0 3600 3000" role="img" aria-labelledby="title desc">
+<title id="title">Case-specific evaluation-cell GLIF spike counts</title>
+<desc id="desc">Case-specific evaluation-cell GLIF spike counts</desc>
+<rect width="3600" height="3000" fill="#FFFFFF"/>
+<text x="180" y="100" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Case-specific GLIF spike counts in five evaluation cells</text>
+<text x="180" y="180" font-family="Arial, sans-serif" font-size="32" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">Marker positions use log1p spacing; raw integer counts remain in the source table.</text>
+<line x1="1550" y1="300" x2="1550" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="1550" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<line x1="1839" y1="300" x2="1839" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="1839" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">1</text>
+<line x1="2008" y1="300" x2="2008" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="2008" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">2</text>
+<line x1="2298" y1="300" x2="2298" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="2298" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">5</text>
+<line x1="2551" y1="300" x2="2551" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="2551" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">10</text>
+<line x1="2821" y1="300" x2="2821" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="2821" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">20</text>
+<line x1="3191" y1="300" x2="3191" y2="2750" stroke="#E8E8E8" stroke-width="3"/>
+<text x="3191" y="2785" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">50</text>
+<text x="2465" y="2870" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">stimulus-window spike count (log1p-spaced axis)</text>
+<text x="180" y="350" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977 | sw 46 | long square first spiking</text>
+<circle cx="1839" cy="350" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="336" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,332 1533,365 1567,365" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="462" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977 | sw 16 | short square first spiking</text>
+<circle cx="1550" cy="462" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="448" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,444 1533,477 1567,477" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="574" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977 | sw 69 | short square triple first spiking</text>
+<circle cx="2128" cy="574" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1825" y="560" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="2008,556 1991,589 2025,589" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="686" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977 | sw 37 | long square prethreshold candidate</text>
+<circle cx="1550" cy="686" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="672" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,668 1533,701 1567,701" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<line x1="170" y1="742" x2="3400" y2="742" stroke="#777777" stroke-width="3"/>
+<text x="180" y="798" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881 | sw 41 | long square first spiking</text>
+<circle cx="2008" cy="798" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="784" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,780 1533,813 1567,813" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="910" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881 | sw 16 | short square first spiking</text>
+<circle cx="1550" cy="910" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="896" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,892 1533,925 1567,925" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1022" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881 | sw 77 | short square triple first spiking</text>
+<circle cx="2008" cy="1022" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1825" y="1008" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1839,1004 1822,1037 1856,1037" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1134" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881 | sw 49 | long square prethreshold candidate</text>
+<circle cx="1550" cy="1134" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="1120" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,1116 1533,1149 1567,1149" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<line x1="170" y1="1190" x2="3400" y2="1190" stroke="#777777" stroke-width="3"/>
+<text x="180" y="1246" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830 | sw 49 | long square first spiking</text>
+<circle cx="1839" cy="1246" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="3321" y="1232" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="3380,1228 3363,1261 3397,1261" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1358" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830 | sw 15 | short square first spiking</text>
+<circle cx="1550" cy="1358" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="1344" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,1340 1533,1373 1567,1373" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1470" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830 | sw 90 | short square triple first spiking</text>
+<circle cx="2128" cy="1470" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1825" y="1456" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1839,1452 1822,1485 1856,1485" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1582" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830 | sw 48 | long square prethreshold candidate</text>
+<circle cx="1550" cy="1582" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="3231" y="1568" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="3280,1564 3263,1597 3297,1597" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<line x1="170" y1="1638" x2="3400" y2="1638" stroke="#777777" stroke-width="3"/>
+<text x="180" y="1694" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413 | sw 40 | long square first spiking</text>
+<circle cx="1839" cy="1694" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="1680" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,1676 1533,1709 1567,1709" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1806" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413 | sw 12 | short square first spiking</text>
+<circle cx="1550" cy="1806" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="1792" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,1788 1533,1821 1567,1821" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="1918" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413 | sw 70 | short square triple first spiking</text>
+<circle cx="2128" cy="1918" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1825" y="1904" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1839,1900 1822,1933 1856,1933" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="2030" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413 | sw 32 | long square prethreshold candidate</text>
+<circle cx="1550" cy="2030" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="2016" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,2012 1533,2045 1567,2045" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<line x1="170" y1="2086" x2="3400" y2="2086" stroke="#777777" stroke-width="3"/>
+<text x="180" y="2142" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580 | sw 39 | long square first spiking</text>
+<circle cx="2222" cy="2142" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="2128" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,2124 1533,2157 1567,2157" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="2254" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580 | sw 19 | short square first spiking</text>
+<circle cx="1550" cy="2254" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="2240" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,2236 1533,2269 1567,2269" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="2366" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580 | sw 82 | short square triple first spiking</text>
+<circle cx="2128" cy="2366" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1825" y="2352" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1839,2348 1822,2381 1856,2381" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="180" y="2478" font-family="Arial, sans-serif" font-size="27" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580 | sw 47 | long square prethreshold candidate</text>
+<circle cx="1550" cy="2478" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<rect x="1536" y="2464" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<polygon points="1550,2460 1533,2493 1567,2493" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<circle cx="1900" cy="240" r="15" fill="#FFFFFF" stroke="#222222" stroke-width="5"/>
+<text x="1930" y="240" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">recording</text>
+<rect x="2190" y="226" width="28" height="28" fill="#4C78A8" stroke="#222222" stroke-width="3"/>
+<text x="2235" y="240" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">stored-grid GLIF</text>
+<polygon points="2700,222 2683,255 2717,255" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="2735" y="240" font-family="Arial, sans-serif" font-size="28" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">recording-grid GLIF</text>
+</svg>

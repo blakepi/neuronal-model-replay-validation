@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="2100" viewBox="0 0 3200 2100" role="img" aria-labelledby="title desc">
+<title id="title">Delivered-current five-by-five benchmark result matrix</title>
+<desc id="desc">Delivered-current five-by-five benchmark result matrix</desc>
+<rect width="3200" height="2100" fill="#FFFFFF"/>
+<text x="150" y="100" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Delivered-current validation benchmark</text>
+<text x="150" y="185" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#9E3D36" text-anchor="start" dominant-baseline="middle">No tested method met the criteria for all five prespecified waveforms.</text>
+<text x="1430" y="390" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">exact</text>
+<text x="1430" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">boundary</text>
+<text x="1790" y="390" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">one-source</text>
+<text x="1790" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">offset</text>
+<text x="2150" y="390" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">midpoint</text>
+<text x="2510" y="390" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">sub-step</text>
+<text x="2510" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">pulse</text>
+<text x="2870" y="390" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">consecutive</text>
+<text x="2870" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">transitions</text>
+<text x="180" y="630" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Original two-argument Vector.play</text>
+<rect x="1250" y="560" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="1415" y="635" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="1610" y="560" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1775" y="635" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1970" y="560" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="2135" y="635" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="2330" y="560" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2495" y="635" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2690" y="560" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2855" y="635" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<text x="180" y="860" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Explicit time vector, discrete</text>
+<rect x="1250" y="790" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="1415" y="865" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="1610" y="790" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1775" y="865" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1970" y="790" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="2135" y="865" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="2330" y="790" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2495" y="865" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2690" y="790" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2855" y="865" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<text x="180" y="1090" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Explicit time vector, continuous</text>
+<rect x="1250" y="1020" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1415" y="1095" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1610" y="1020" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1775" y="1095" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1970" y="1020" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="2135" y="1095" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="2330" y="1020" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2495" y="1095" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2690" y="1020" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2855" y="1095" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<text x="180" y="1320" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Manual boundary sample</text>
+<rect x="1250" y="1250" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1415" y="1325" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1610" y="1250" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1775" y="1325" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1970" y="1250" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="2135" y="1325" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="2330" y="1250" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2495" y="1325" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2690" y="1250" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2855" y="1325" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<text x="180" y="1550" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Solver-interval charge average</text>
+<rect x="1250" y="1480" width="330" height="150" fill="#DCEAF4" stroke="#222222" stroke-width="3"/>
+<text x="1415" y="1555" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">MET</text>
+<rect x="1610" y="1480" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="1775" y="1555" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="1970" y="1480" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2135" y="1555" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2330" y="1480" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2495" y="1555" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<rect x="2690" y="1480" width="330" height="150" fill="#F5DFC2" stroke="#222222" stroke-width="3"/>
+<text x="2855" y="1555" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#9E3D36" text-anchor="middle" dominant-baseline="middle">NOT MET</text>
+<text x="150" y="1840" font-family="Arial, sans-serif" font-size="31" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">The 0.005 ms source grid can contain multiple transitions within one 0.025 ms solver interval.</text>
+<text x="150" y="1910" font-family="Arial, sans-serif" font-size="31" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">A changed solver step or delivery rule would define a different analysis.</text>
+</svg>

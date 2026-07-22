@@ -1,0 +1,4 @@
+metric,calculated,non_evaluable,total
+absolute_spike_count_error,72,0,72
+absolute_first_spike_latency_error_ms,20,52,72
+absolute_steady_state_delta_voltage_error_mV,30,42,72

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2600" height="1700" viewBox="0 0 2600 1700" role="img" aria-labelledby="title desc">
+<title id="title">Short Square strict boundary and post hoc sensitivity</title>
+<desc id="desc">Short Square strict boundary and post hoc sensitivity</desc>
+<rect width="2600" height="1700" fill="#FFFFFF"/>
+<text x="150" y="100" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Short Square boundary sensitivity</text>
+<text x="150" y="185" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#9E3D36" text-anchor="start" dominant-baseline="middle">Strict half-open interval is primary; +0.25 ms is post hoc.</text>
+<text x="180" y="340" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">Specimen / sweep</text>
+<text x="950" y="340" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">Strict primary count</text>
+<text x="1350" y="340" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">+0.25 ms count</text>
+<text x="1750" y="340" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">Threshold after offset</text>
+<text x="2250" y="340" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">Upstroke at offset</text>
+<rect x="130" y="460" width="2340" height="135" fill="#DCEAF4" stroke="#DCEAF4" stroke-width="1"/>
+<text x="180" y="520" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977 / 16</text>
+<text x="950" y="520" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<text x="1350" y="520" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="1750" y="520" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0.145 ms</text>
+<text x="2250" y="520" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">YES</text>
+<text x="180" y="700" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881 / 16</text>
+<text x="950" y="700" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<text x="1350" y="700" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="1750" y="700" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0.095 ms</text>
+<text x="2250" y="700" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">YES</text>
+<rect x="130" y="820" width="2340" height="135" fill="#DCEAF4" stroke="#DCEAF4" stroke-width="1"/>
+<text x="180" y="880" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830 / 15</text>
+<text x="950" y="880" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<text x="1350" y="880" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="1750" y="880" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0.040 ms</text>
+<text x="2250" y="880" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">YES</text>
+<text x="180" y="1060" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413 / 12</text>
+<text x="950" y="1060" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<text x="1350" y="1060" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="1750" y="1060" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0.200 ms</text>
+<text x="2250" y="1060" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">YES</text>
+<rect x="130" y="1180" width="2340" height="135" fill="#DCEAF4" stroke="#DCEAF4" stroke-width="1"/>
+<text x="180" y="1240" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580 / 19</text>
+<text x="950" y="1240" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">0</text>
+<text x="1350" y="1240" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">1</text>
+<text x="1750" y="1240" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">0.200 ms</text>
+<text x="2250" y="1240" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2D6A4F" text-anchor="middle" dominant-baseline="middle">YES</text>
+<text x="150" y="1500" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">The sensitivity does not replace the prespecified estimand or establish a protocol-general causal rule.</text>
+</svg>

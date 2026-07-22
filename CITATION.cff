@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  Cite the software version and exact Git commit used, together with the accompanying
+  methods paper when available. Cite Allen-derived inputs using their source identifiers.
+title: Numerical Validation for Cell-Matched Neuronal Model Replay
+type: software
+version: 0.2.0
+authors:
+  - family-names: Pierpoint
+    given-names: G. Blake
+    affiliation: >-
+      Department of Biomedical and Translational Sciences, Macon and Joan Brock
+      Virginia Health Sciences at Old Dominion University; Center for Integrative
+      Neuroscience and Inflammatory Diseases, Old Dominion University; Department
+      of Biomedical Engineering, Whiting School of Engineering, Johns Hopkins University
+    email: pierpogb@odu.edu
+    orcid: https://orcid.org/0000-0001-8288-8549
+  - family-names: Liu
+    given-names: Yichen
+    affiliation: >-
+      Department of Computer Science and Engineering, Shanghai Jiao Tong University,
+      Shanghai, China
+    orcid: https://orcid.org/0009-0005-2367-1493
+license: MIT
+repository-code: https://github.com/blakepi/neuronal-model-replay-validation

@@ -1,0 +1,7 @@
+analysis,finding,supported_interpretation
+Short Square boundary,Strict count 0 in all five traces; post hoc +0.25 ms count 1 in all five,trace-specific primary result plus separately labeled boundary sensitivity
+Delivered current,No tested method satisfied all five benchmark waveforms,numerical limitation of tested playback routes; no claim of intended solver-time delivery
+Initialization/equilibration,All original pre-stimulus periods drifted; all extended periods converged; 20 of 24 cases met a material-change criterion,dependence on initialization and equilibration duration in the tested implementation
+Fit-section mapping,All 158 selectors mapped to the intended constructed-section class,exact construction-route identity only
+Recording units,SI units verified for all six named NWB files,file-specific unit interpretation only
+Combined interpretation,Results are descriptive and case-specific,"no population inference, model ranking, held-out prediction, or digital-twin validation"

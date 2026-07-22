@@ -1,0 +1,21 @@
+name: lightweight-validation
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: python -m pip install -e ".[dev]"
+      - run: python -m ruff check src/neuronal_model_replay_validation scripts/verify_reproducibility.py tests/test_public_validation.py tests/test_publication_consistency.py examples/quickstart_validation.py
+      - run: python -m pytest tests/test_public_validation.py tests/test_publication_consistency.py
+      - run: neuronal-model-replay-validation benchmark --output "${{ runner.temp }}/constructive_benchmark.json"
+      - run: python examples/quickstart_validation.py --output "${{ runner.temp }}/quickstart_benchmark.json"
+      - run: python scripts/verify_reproducibility.py --science-only

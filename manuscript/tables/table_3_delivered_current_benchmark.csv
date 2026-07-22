@@ -1,0 +1,6 @@
+candidate,exact_boundary,one_source_sample_offset,midpoint_between_solver_steps,sub_solver_step_pulse,consecutive_transitions,all_five_criteria_met
+original_two_argument_vector_play,FAIL,PASS,PASS,FAIL,FAIL,False
+explicit_time_vector_discrete,FAIL,PASS,PASS,FAIL,FAIL,False
+explicit_time_vector_continuous,PASS,PASS,PASS,FAIL,FAIL,False
+manual_boundary_sample,PASS,PASS,PASS,FAIL,FAIL,False
+solver_interval_charge_average,PASS,FAIL,FAIL,FAIL,FAIL,False

@@ -1,0 +1,1566 @@
+{
+  "analysis_label": "post_hoc_methodological_extension",
+  "criteria": {
+    "amplitude_tolerance_nA": 1e-12,
+    "charge_absolute_tolerance_nA_ms": 1e-12,
+    "charge_relative_tolerance": 1e-09,
+    "time_tolerance_ms": 1e-09
+  },
+  "results": [
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "exact_boundary",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.3877787807814457e-17,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.075,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.05,
+          "index": 0,
+          "source_width_ms": 0.05,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.04999999999999999,
+          "index": 1,
+          "source_width_ms": 0.05000000000000002,
+          "width_criterion_met": true,
+          "width_error_ms": -2.7755575615628914e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.025,
+      "source_charge_nA_ms": 0.07500000000000001,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.05,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.1,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.15000000000000002,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.15000000000000002,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.2,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.2,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "one_source_sample_offset",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 6.938893903907228e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.037500000000000006,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.02500000000000001,
+          "index": 0,
+          "source_width_ms": 0.025,
+          "width_criterion_met": true,
+          "width_error_ms": 6.938893903907228e-18
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.025,
+      "source_charge_nA_ms": 0.0375,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.03,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.020000000000000004
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.07500000000000001,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.055,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.02000000000000001
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.08,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.020000000000000004
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.125,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.105,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.020000000000000004
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "midpoint_between_solver_steps",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -6.938893903907228e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0375,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025,
+          "index": 0,
+          "source_width_ms": 0.024999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 3.469446951953614e-18
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.025,
+      "source_charge_nA_ms": 0.037500000000000006,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.025,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.0125,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0125
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.037500000000000006,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.012499999999999997
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.07500000000000001,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.0625,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.012500000000000011
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.08750000000000001,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.012499999999999997
+        }
+      ]
+    },
+    {
+      "all_criteria_met": false,
+      "benchmark_waveform": "sub_solver_step_pulse",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -0.01,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0,
+      "interval_charge_criterion_met": false,
+      "pulse_details": [
+        {
+          "comparison": "missing_or_extra_pulse",
+          "index": 0
+        }
+      ],
+      "pulse_width_criterion_met": false,
+      "solver_dt_ms": 0.025,
+      "source_charge_nA_ms": 0.01,
+      "transition_criterion_met": false,
+      "transition_details": [
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 0
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "all_criteria_met": false,
+      "benchmark_waveform": "consecutive_transitions",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -0.00625,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0,
+      "interval_charge_criterion_met": false,
+      "pulse_details": [],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.025,
+      "source_charge_nA_ms": 0.00625,
+      "transition_criterion_met": false,
+      "transition_details": [
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 0
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 1
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 2
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "exact_boundary",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.3877787807814457e-17,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.075,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.05,
+          "index": 0,
+          "source_width_ms": 0.05,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.04999999999999999,
+          "index": 1,
+          "source_width_ms": 0.05000000000000002,
+          "width_criterion_met": true,
+          "width_error_ms": -2.7755575615628914e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0125,
+      "source_charge_nA_ms": 0.07500000000000001,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.05,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.1,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.15000000000000002,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.15000000000000002,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.2,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.2,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "one_source_sample_offset",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -6.938893903907228e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.03749999999999999,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 0,
+          "source_width_ms": 0.025,
+          "width_criterion_met": true,
+          "width_error_ms": -6.938893903907228e-18
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0125,
+      "source_charge_nA_ms": 0.0375,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.037500000000000006,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.03,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.007500000000000007
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0625,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.055,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0075
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08750000000000001,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.08,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.007500000000000007
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1125,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.105,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.007500000000000007
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "midpoint_between_solver_steps",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.037500000000000006,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025000000000000005,
+          "index": 0,
+          "source_width_ms": 0.024999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 6.938893903907228e-18
+        },
+        {
+          "delivered_width_ms": 0.02500000000000001,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 1.3877787807814457e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0125,
+      "source_charge_nA_ms": 0.037500000000000006,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0125,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.0125,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.037500000000000006,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.037500000000000006,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0625,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.0625,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08750000000000001,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.08750000000000001,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": false,
+      "benchmark_waveform": "sub_solver_step_pulse",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0025000000000000005,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0125,
+      "interval_charge_criterion_met": false,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.0125,
+          "index": 0,
+          "source_width_ms": 0.009999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0025000000000000022
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0125,
+      "source_charge_nA_ms": 0.01,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0125,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.007500000000000001
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.025,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.010000000000000002
+        }
+      ]
+    },
+    {
+      "all_criteria_met": false,
+      "benchmark_waveform": "consecutive_transitions",
+      "boundary_amplitude_criterion_met": false,
+      "charge_error_nA_ms": -0.0125,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": -0.00625,
+      "interval_charge_criterion_met": false,
+      "pulse_details": [],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0125,
+      "source_charge_nA_ms": 0.00625,
+      "transition_criterion_met": false,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": false,
+          "delivered_time_ms": 0.0125,
+          "delivered_value_nA": -0.5,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.007500000000000001
+        },
+        {
+          "amplitude_criterion_met": false,
+          "delivered_time_ms": 0.025,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.01,
+          "source_value_nA": -0.5,
+          "timing_criterion_met": false,
+          "timing_error_ms": 0.015000000000000001
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 2
+        },
+        {
+          "comparison": "missing_or_extra_transition",
+          "index": 3
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "exact_boundary",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.07500000000000001,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.05,
+          "index": 0,
+          "source_width_ms": 0.05,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.05000000000000002,
+          "index": 1,
+          "source_width_ms": 0.05000000000000002,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.005,
+      "source_charge_nA_ms": 0.07500000000000001,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.05,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.1,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.15,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.15000000000000002,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": -2.7755575615628914e-17
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.2,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.2,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "one_source_sample_offset",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0375,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025,
+          "index": 0,
+          "source_width_ms": 0.025,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.005,
+      "source_charge_nA_ms": 0.0375,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.03,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.03,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.055,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.055,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.08,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.105,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.105,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "midpoint_between_solver_steps",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -6.938893903907228e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0375,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025,
+          "index": 0,
+          "source_width_ms": 0.024999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 3.469446951953614e-18
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.005,
+      "source_charge_nA_ms": 0.037500000000000006,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.0125,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0024999999999999988
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.04,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.037500000000000006,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0024999999999999953
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.065,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.0625,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0025000000000000022
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.09,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.08750000000000001,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0024999999999999883
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "sub_solver_step_pulse",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.734723475976807e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.009999999999999998,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.009999999999999998,
+          "index": 0,
+          "source_width_ms": 0.009999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.005,
+      "source_charge_nA_ms": 0.01,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "consecutive_transitions",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 8.673617379884035e-19,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.006250000000000001,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.005,
+      "source_charge_nA_ms": 0.00625,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.01,
+          "delivered_value_nA": -0.5,
+          "index": 1,
+          "source_time_ms": 0.01,
+          "source_value_nA": -0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.75,
+          "index": 2,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.75,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.02,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.02,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "exact_boundary",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.07500000000000001,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.05,
+          "index": 0,
+          "source_width_ms": 0.05,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.05000000000000002,
+          "index": 1,
+          "source_width_ms": 0.05000000000000002,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0025,
+      "source_charge_nA_ms": 0.07500000000000001,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.05,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.1,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.15,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.15000000000000002,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": -2.7755575615628914e-17
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.2,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.2,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "one_source_sample_offset",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.0375,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025,
+          "index": 0,
+          "source_width_ms": 0.025,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0025,
+      "source_charge_nA_ms": 0.0375,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.03,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.03,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.055,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.055,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.08,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.105,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.105,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "midpoint_between_solver_steps",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.037500000000000006,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.024999999999999998,
+          "index": 0,
+          "source_width_ms": 0.024999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.02500000000000001,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 1.3877787807814457e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0025,
+      "source_charge_nA_ms": 0.037500000000000006,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0125,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.0125,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0375,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.037500000000000006,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": -6.938893903907228e-18
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0625,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.0625,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08750000000000001,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.08750000000000001,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "sub_solver_step_pulse",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.734723475976807e-18,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.009999999999999998,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.009999999999999998,
+          "index": 0,
+          "source_width_ms": 0.009999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0025,
+      "source_charge_nA_ms": 0.01,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "consecutive_transitions",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 8.673617379884035e-19,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "delivered_charge_nA_ms": 0.006250000000000001,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": 0.0025,
+      "source_charge_nA_ms": 0.00625,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.01,
+          "delivered_value_nA": -0.5,
+          "index": 1,
+          "source_time_ms": 0.01,
+          "source_value_nA": -0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.75,
+          "index": 2,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.75,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.02,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.02,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "exact_boundary",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.3877787807814457e-17,
+      "current_playback_method": "event_scheduled_transitions",
+      "delivered_charge_nA_ms": 0.075,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.05,
+          "index": 0,
+          "source_width_ms": 0.05,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.04999999999999999,
+          "index": 1,
+          "source_width_ms": 0.05000000000000002,
+          "width_criterion_met": true,
+          "width_error_ms": -2.7755575615628914e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": null,
+      "source_charge_nA_ms": 0.07500000000000001,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.05,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.05,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.1,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.1,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.15000000000000002,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.15000000000000002,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.2,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.2,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "one_source_sample_offset",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "event_scheduled_transitions",
+      "delivered_charge_nA_ms": 0.0375,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025,
+          "index": 0,
+          "source_width_ms": 0.025,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        },
+        {
+          "delivered_width_ms": 0.024999999999999994,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": null,
+      "source_charge_nA_ms": 0.0375,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.03,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.03,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.055,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.055,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.08,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.105,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.105,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "midpoint_between_solver_steps",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 0.0,
+      "current_playback_method": "event_scheduled_transitions",
+      "delivered_charge_nA_ms": 0.037500000000000006,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.025000000000000005,
+          "index": 0,
+          "source_width_ms": 0.024999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 6.938893903907228e-18
+        },
+        {
+          "delivered_width_ms": 0.02500000000000001,
+          "index": 1,
+          "source_width_ms": 0.024999999999999994,
+          "width_criterion_met": true,
+          "width_error_ms": 1.3877787807814457e-17
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": null,
+      "source_charge_nA_ms": 0.037500000000000006,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0125,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.0125,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.037500000000000006,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.037500000000000006,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.0625,
+          "delivered_value_nA": 0.5,
+          "index": 2,
+          "source_time_ms": 0.0625,
+          "source_value_nA": 0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.08750000000000001,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.08750000000000001,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "sub_solver_step_pulse",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": -1.734723475976807e-18,
+      "current_playback_method": "event_scheduled_transitions",
+      "delivered_charge_nA_ms": 0.009999999999999998,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [
+        {
+          "delivered_width_ms": 0.009999999999999998,
+          "index": 0,
+          "source_width_ms": 0.009999999999999998,
+          "width_criterion_met": true,
+          "width_error_ms": 0.0
+        }
+      ],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": null,
+      "source_charge_nA_ms": 0.01,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.0,
+          "index": 1,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    },
+    {
+      "all_criteria_met": true,
+      "benchmark_waveform": "consecutive_transitions",
+      "boundary_amplitude_criterion_met": true,
+      "charge_error_nA_ms": 8.673617379884035e-19,
+      "current_playback_method": "event_scheduled_transitions",
+      "delivered_charge_nA_ms": 0.006250000000000001,
+      "interval_charge_criterion_met": true,
+      "pulse_details": [],
+      "pulse_width_criterion_met": true,
+      "solver_dt_ms": null,
+      "source_charge_nA_ms": 0.00625,
+      "transition_criterion_met": true,
+      "transition_details": [
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.005,
+          "delivered_value_nA": 1.0,
+          "index": 0,
+          "source_time_ms": 0.005,
+          "source_value_nA": 1.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.01,
+          "delivered_value_nA": -0.5,
+          "index": 1,
+          "source_time_ms": 0.01,
+          "source_value_nA": -0.5,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.015,
+          "delivered_value_nA": 0.75,
+          "index": 2,
+          "source_time_ms": 0.015,
+          "source_value_nA": 0.75,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        },
+        {
+          "amplitude_criterion_met": true,
+          "delivered_time_ms": 0.02,
+          "delivered_value_nA": 0.0,
+          "index": 3,
+          "source_time_ms": 0.02,
+          "source_value_nA": 0.0,
+          "timing_criterion_met": true,
+          "timing_error_ms": 0.0
+        }
+      ]
+    }
+  ],
+  "schema_version": "2.0.0",
+  "software": {
+    "package_version": "0.2.0"
+  },
+  "summaries": [
+    {
+      "all_waveforms_meet_all_criteria": true,
+      "current_playback_method": "event_scheduled_transitions",
+      "solver_dt_ms": null,
+      "waveform_count": 5,
+      "waveforms_meeting_all_criteria": 5
+    },
+    {
+      "all_waveforms_meet_all_criteria": true,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "solver_dt_ms": 0.0025,
+      "waveform_count": 5,
+      "waveforms_meeting_all_criteria": 5
+    },
+    {
+      "all_waveforms_meet_all_criteria": true,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "solver_dt_ms": 0.005,
+      "waveform_count": 5,
+      "waveforms_meeting_all_criteria": 5
+    },
+    {
+      "all_waveforms_meet_all_criteria": false,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "solver_dt_ms": 0.0125,
+      "waveform_count": 5,
+      "waveforms_meeting_all_criteria": 3
+    },
+    {
+      "all_waveforms_meet_all_criteria": false,
+      "current_playback_method": "fixed_step_boundary_sampling",
+      "solver_dt_ms": 0.025,
+      "waveform_count": 5,
+      "waveforms_meeting_all_criteria": 3
+    }
+  ]
+}

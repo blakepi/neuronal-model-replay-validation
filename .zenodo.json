@@ -1,0 +1,28 @@
+{
+  "access_right": "open",
+  "creators": [
+    {
+      "affiliation": "Macon and Joan Brock Virginia Health Sciences at Old Dominion University",
+      "name": "Pierpoint, G. Blake",
+      "orcid": "0000-0001-8288-8549"
+    },
+    {
+      "affiliation": "Shanghai Jiao Tong University",
+      "name": "Liu, Yichen",
+      "orcid": "0009-0005-2367-1493"
+    }
+  ],
+  "description": "Synthetic current-delivery benchmarks, initialization and equilibration diagnostics, reason-coded outcome eligibility, and publication materials for a six-cell neuronal model replay study.",
+  "keywords": [
+    "NEURON",
+    "computational neuroscience",
+    "equilibration",
+    "reproducibility",
+    "stimulus delivery"
+  ],
+  "license": "MIT",
+  "publication_date": "2026-07-21",
+  "title": "Numerical Validation for Cell-Matched Neuronal Model Replay",
+  "upload_type": "software",
+  "version": "0.2.0"
+}

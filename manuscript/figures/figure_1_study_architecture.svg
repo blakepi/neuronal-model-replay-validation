@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1800" viewBox="0 0 3000 1800" role="img" aria-labelledby="title desc">
+<title id="title">Six-cell study design and interpretive scope</title>
+<desc id="desc">Six-cell study design and interpretive scope</desc>
+<rect width="3000" height="1800" fill="#FFFFFF"/>
+<text x="150" y="110" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Six-cell technical study: design and interpretive scope</text>
+<rect x="120" y="420" width="480" height="860" fill="#DCEAF4" stroke="#1F4E79" stroke-width="5"/>
+<text x="360" y="500" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1F4E79" text-anchor="middle" dominant-baseline="middle">SOURCE DATA</text>
+<text x="360" y="640" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">6 cells from 6 mice</text>
+<text x="360" y="745" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">1 method-development cell</text>
+<text x="360" y="850" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">5 evaluation cells</text>
+<text x="360" y="955" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">24 recording selections</text>
+<line x1="605" y1="850" x2="665" y2="850" stroke="#1F4E79" stroke-width="8"/>
+<polygon points="665,850 640,830 640,870" fill="#1F4E79" stroke="#1F4E79" stroke-width="1"/>
+<rect x="680" y="420" width="480" height="860" fill="#FFFFFF" stroke="#1F4E79" stroke-width="5"/>
+<text x="920" y="500" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1F4E79" text-anchor="middle" dominant-baseline="middle">PRESPECIFIED CASES</text>
+<text x="920" y="640" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">72 condition-specific cases</text>
+<text x="920" y="745" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">GLIF stored-grid: 24</text>
+<text x="920" y="850" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">GLIF recording-grid: 24</text>
+<text x="920" y="955" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Perisomatic replay: 24</text>
+<line x1="1165" y1="850" x2="1225" y2="850" stroke="#1F4E79" stroke-width="8"/>
+<polygon points="1225,850 1200,830 1200,870" fill="#1F4E79" stroke="#1F4E79" stroke-width="1"/>
+<rect x="1240" y="420" width="480" height="860" fill="#DCEAF4" stroke="#1F4E79" stroke-width="5"/>
+<text x="1480" y="500" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1F4E79" text-anchor="middle" dominant-baseline="middle">OUTCOMES</text>
+<text x="1480" y="640" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">3 outcomes per case</text>
+<text x="1480" y="745" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">216 eligibility entries</text>
+<text x="1480" y="850" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Reason-coded non-evaluable outcomes</text>
+<line x1="1725" y1="850" x2="1785" y2="850" stroke="#1F4E79" stroke-width="8"/>
+<polygon points="1785,850 1760,830 1760,870" fill="#1F4E79" stroke="#1F4E79" stroke-width="1"/>
+<rect x="1800" y="420" width="480" height="860" fill="#FFFFFF" stroke="#1F4E79" stroke-width="5"/>
+<text x="2040" y="500" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1F4E79" text-anchor="middle" dominant-baseline="middle">NUMERICAL ANALYSES</text>
+<text x="2040" y="640" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Event boundaries</text>
+<text x="2040" y="745" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Current delivery</text>
+<text x="2040" y="850" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Equilibration</text>
+<text x="2040" y="955" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Construction / units</text>
+<line x1="2285" y1="850" x2="2345" y2="850" stroke="#1F4E79" stroke-width="8"/>
+<polygon points="2345,850 2320,830 2320,870" fill="#1F4E79" stroke="#1F4E79" stroke-width="1"/>
+<rect x="2360" y="420" width="480" height="860" fill="#F5DFC2" stroke="#C76E00" stroke-width="5"/>
+<text x="2600" y="500" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#C76E00" text-anchor="middle" dominant-baseline="middle">INTERPRETIVE SCOPE</text>
+<text x="2600" y="640" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">Case-specific report</text>
+<text x="2600" y="745" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">No model ranking</text>
+<text x="2600" y="850" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">No population inference</text>
+<text x="2600" y="955" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="middle" dominant-baseline="middle">No digital-twin validation</text>
+<text x="150" y="1530" font-family="Arial, sans-serif" font-size="34" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">The method-development cell is shown separately; sweeps and cases are nested technical observations.</text>
+<text x="150" y="1610" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#9E3D36" text-anchor="start" dominant-baseline="middle">No current-delivery candidate met all criteria; the equilibration sensitivity is reported separately.</text>
+</svg>

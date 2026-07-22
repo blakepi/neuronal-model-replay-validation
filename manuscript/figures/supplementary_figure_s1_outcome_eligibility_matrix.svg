@@ -1,0 +1,528 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3900" viewBox="0 0 3000 3900" role="img" aria-labelledby="title desc">
+<title id="title">Metric applicability for all 72 prespecified cases</title>
+<desc id="desc">A 72-row by three-column matrix. Spike-count error is calculated in every case; first-spike latency is calculated in 20 cases and otherwise has no in-window spike; steady-state voltage is calculated in 30 cases, not applicable to protocol in 36, and has insufficient coverage in six.</desc>
+<rect width="3000" height="3900" fill="#FFFFFF"/>
+<text x="150" y="100" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Outcome eligibility across 72 prespecified cases</text>
+<text x="150" y="180" font-family="Arial, sans-serif" font-size="31" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">Each row is one case; each cell is a prespecified outcome. Non-evaluable outcomes are not zero.</text>
+<text x="1750" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">Spike-count error</text>
+<text x="2170" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">First-spike latency</text>
+<text x="2590" y="285" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">Steady-state ΔV</text>
+<text x="150" y="378" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">01 | 314822529 | sw 44 | glif stored grid</text>
+<rect x="1630" y="360" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="378" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="360" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="378" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="360" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="378" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="423" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">02 | 314822529 | sw 44 | glif recording grid</text>
+<rect x="1630" y="405" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="423" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="405" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="423" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="405" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="423" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="468" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">03 | 314822529 | sw 44 | perisomatic recording grid playback</text>
+<rect x="1630" y="450" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="468" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="450" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="468" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="450" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="468" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="513" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">04 | 314822529 | sw 17 | glif stored grid</text>
+<rect x="1630" y="495" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="513" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="495" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="513" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="495" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="513" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="558" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">05 | 314822529 | sw 17 | glif recording grid</text>
+<rect x="1630" y="540" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="558" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="540" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="558" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="540" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="558" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="603" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">06 | 314822529 | sw 17 | perisomatic recording grid playback</text>
+<rect x="1630" y="585" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="603" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="585" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="603" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="585" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="603" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="648" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">07 | 314822529 | sw 75 | glif stored grid</text>
+<rect x="1630" y="630" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="648" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="630" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="648" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="630" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="648" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="693" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">08 | 314822529 | sw 75 | glif recording grid</text>
+<rect x="1630" y="675" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="693" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="675" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="693" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="675" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="693" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="738" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">09 | 314822529 | sw 75 | perisomatic recording grid playback</text>
+<rect x="1630" y="720" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="738" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="720" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="738" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="720" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="738" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="783" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">10 | 314822529 | sw 66 | glif stored grid</text>
+<rect x="1630" y="765" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="783" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="765" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="783" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="765" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="783" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="828" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">11 | 314822529 | sw 66 | glif recording grid</text>
+<rect x="1630" y="810" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="828" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="810" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="828" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="810" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="828" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="873" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">12 | 314822529 | sw 66 | perisomatic recording grid playback</text>
+<rect x="1630" y="855" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="873" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="855" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="873" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="855" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="873" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="918" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">13 | 324493977 | sw 46 | glif stored grid</text>
+<line x1="120" y1="892" x2="2820" y2="892" stroke="#C76E00" stroke-width="5"/>
+<text x="2850" y="886" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#C76E00" text-anchor="end" dominant-baseline="middle">reference ↑  |  evaluation ↓</text>
+<rect x="1630" y="900" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="918" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="900" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="918" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="900" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="918" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="963" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">14 | 324493977 | sw 46 | glif recording grid</text>
+<rect x="1630" y="945" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="963" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="945" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="963" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="945" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="963" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1008" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">15 | 324493977 | sw 46 | perisomatic recording grid playback</text>
+<rect x="1630" y="990" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1008" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="990" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1008" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="990" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1008" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1053" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">16 | 324493977 | sw 16 | glif stored grid</text>
+<rect x="1630" y="1035" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1053" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1035" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1053" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1035" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1053" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1098" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">17 | 324493977 | sw 16 | glif recording grid</text>
+<rect x="1630" y="1080" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1098" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1080" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1098" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1080" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1098" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1143" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">18 | 324493977 | sw 16 | perisomatic recording grid playback</text>
+<rect x="1630" y="1125" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1143" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1125" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1143" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1125" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1143" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1188" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">19 | 324493977 | sw 69 | glif stored grid</text>
+<rect x="1630" y="1170" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1188" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1170" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1188" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1170" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1188" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1233" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">20 | 324493977 | sw 69 | glif recording grid</text>
+<rect x="1630" y="1215" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1233" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1215" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1233" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1215" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1233" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1278" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">21 | 324493977 | sw 69 | perisomatic recording grid playback</text>
+<rect x="1630" y="1260" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1278" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1260" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1278" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1260" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1278" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1323" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">22 | 324493977 | sw 37 | glif stored grid</text>
+<rect x="1630" y="1305" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1323" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1305" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1323" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1305" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1323" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1368" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">23 | 324493977 | sw 37 | glif recording grid</text>
+<rect x="1630" y="1350" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1368" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1350" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1368" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1350" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1368" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1413" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">24 | 324493977 | sw 37 | perisomatic recording grid playback</text>
+<rect x="1630" y="1395" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1413" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1395" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1413" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1395" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1413" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1458" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">25 | 473943881 | sw 41 | glif stored grid</text>
+<rect x="1630" y="1440" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1458" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1440" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1458" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1440" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1458" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1503" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">26 | 473943881 | sw 41 | glif recording grid</text>
+<rect x="1630" y="1485" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1503" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1485" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1503" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1485" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1503" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1548" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">27 | 473943881 | sw 41 | perisomatic recording grid playback</text>
+<rect x="1630" y="1530" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1548" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1530" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1548" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1530" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1548" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1593" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">28 | 473943881 | sw 16 | glif stored grid</text>
+<rect x="1630" y="1575" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1593" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1575" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1593" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1575" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1593" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1638" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">29 | 473943881 | sw 16 | glif recording grid</text>
+<rect x="1630" y="1620" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1638" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1620" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1638" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1620" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1638" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1683" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">30 | 473943881 | sw 16 | perisomatic recording grid playback</text>
+<rect x="1630" y="1665" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1683" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1665" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1683" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1665" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1683" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1728" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">31 | 473943881 | sw 77 | glif stored grid</text>
+<rect x="1630" y="1710" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1728" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1710" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1728" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1710" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1728" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1773" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">32 | 473943881 | sw 77 | glif recording grid</text>
+<rect x="1630" y="1755" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1773" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1755" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1773" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1755" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1773" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1818" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">33 | 473943881 | sw 77 | perisomatic recording grid playback</text>
+<rect x="1630" y="1800" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1818" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1800" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1818" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1800" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1818" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="1863" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">34 | 473943881 | sw 49 | glif stored grid</text>
+<rect x="1630" y="1845" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1863" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1845" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1863" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1845" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1863" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1908" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">35 | 473943881 | sw 49 | glif recording grid</text>
+<rect x="1630" y="1890" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1908" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1890" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1908" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1890" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1908" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1953" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">36 | 473943881 | sw 49 | perisomatic recording grid playback</text>
+<rect x="1630" y="1935" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1953" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1935" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1953" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="1935" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1953" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="1998" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">37 | 471087830 | sw 49 | glif stored grid</text>
+<rect x="1630" y="1980" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="1998" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="1980" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="1998" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="1980" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="1998" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2043" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">38 | 471087830 | sw 49 | glif recording grid</text>
+<rect x="1630" y="2025" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2043" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2025" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2043" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2025" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2043" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2088" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">39 | 471087830 | sw 49 | perisomatic recording grid playback</text>
+<rect x="1630" y="2070" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2088" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2070" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2088" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2070" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2088" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2133" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">40 | 471087830 | sw 15 | glif stored grid</text>
+<rect x="1630" y="2115" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2133" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2115" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2133" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2115" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2133" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2178" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">41 | 471087830 | sw 15 | glif recording grid</text>
+<rect x="1630" y="2160" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2178" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2160" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2178" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2160" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2178" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2223" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">42 | 471087830 | sw 15 | perisomatic recording grid playback</text>
+<rect x="1630" y="2205" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2223" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2205" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2223" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2205" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2223" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2268" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">43 | 471087830 | sw 90 | glif stored grid</text>
+<rect x="1630" y="2250" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2268" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2250" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2268" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2250" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2268" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2313" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">44 | 471087830 | sw 90 | glif recording grid</text>
+<rect x="1630" y="2295" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2313" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2295" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2313" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2295" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2313" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2358" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">45 | 471087830 | sw 90 | perisomatic recording grid playback</text>
+<rect x="1630" y="2340" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2358" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2340" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2358" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2340" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2358" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2403" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">46 | 471087830 | sw 48 | glif stored grid</text>
+<rect x="1630" y="2385" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2403" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2385" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2403" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2385" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2403" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2448" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">47 | 471087830 | sw 48 | glif recording grid</text>
+<rect x="1630" y="2430" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2448" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2430" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2448" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2430" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2448" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2493" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">48 | 471087830 | sw 48 | perisomatic recording grid playback</text>
+<rect x="1630" y="2475" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2493" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2475" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2493" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2475" width="240" height="35" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2493" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="150" y="2538" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">49 | 475585413 | sw 40 | glif stored grid</text>
+<rect x="1630" y="2520" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2538" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2520" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2538" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2520" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2538" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="2583" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">50 | 475585413 | sw 40 | glif recording grid</text>
+<rect x="1630" y="2565" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2583" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2565" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2583" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2565" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2583" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="2628" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">51 | 475585413 | sw 40 | perisomatic recording grid playback</text>
+<rect x="1630" y="2610" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2628" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2610" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2628" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2610" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2628" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="2673" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">52 | 475585413 | sw 12 | glif stored grid</text>
+<rect x="1630" y="2655" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2673" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2655" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2673" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2655" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2673" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2718" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">53 | 475585413 | sw 12 | glif recording grid</text>
+<rect x="1630" y="2700" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2718" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2700" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2718" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2700" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2718" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2763" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">54 | 475585413 | sw 12 | perisomatic recording grid playback</text>
+<rect x="1630" y="2745" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2763" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2745" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2763" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2745" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2763" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2808" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">55 | 475585413 | sw 70 | glif stored grid</text>
+<rect x="1630" y="2790" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2808" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2790" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2808" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2790" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2808" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2853" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">56 | 475585413 | sw 70 | glif recording grid</text>
+<rect x="1630" y="2835" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2853" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2835" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2853" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2835" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2853" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2898" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">57 | 475585413 | sw 70 | perisomatic recording grid playback</text>
+<rect x="1630" y="2880" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2898" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2880" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2898" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="2880" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2898" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="2943" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">58 | 475585413 | sw 32 | glif stored grid</text>
+<rect x="1630" y="2925" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2943" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2925" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2943" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2925" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2943" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="2988" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">59 | 475585413 | sw 32 | glif recording grid</text>
+<rect x="1630" y="2970" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="2988" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="2970" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="2988" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="2970" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="2988" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3033" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">60 | 475585413 | sw 32 | perisomatic recording grid playback</text>
+<rect x="1630" y="3015" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3033" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3015" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3033" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3015" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3033" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3078" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">61 | 464188580 | sw 39 | glif stored grid</text>
+<rect x="1630" y="3060" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3078" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3060" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3078" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3060" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3078" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3123" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">62 | 464188580 | sw 39 | glif recording grid</text>
+<rect x="1630" y="3105" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3123" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3105" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3123" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3105" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3123" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3168" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">63 | 464188580 | sw 39 | perisomatic recording grid playback</text>
+<rect x="1630" y="3150" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3168" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3150" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3168" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3150" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3168" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3213" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">64 | 464188580 | sw 19 | glif stored grid</text>
+<rect x="1630" y="3195" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3213" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3195" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3213" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3195" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3213" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3258" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">65 | 464188580 | sw 19 | glif recording grid</text>
+<rect x="1630" y="3240" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3258" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3240" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3258" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3240" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3258" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3303" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">66 | 464188580 | sw 19 | perisomatic recording grid playback</text>
+<rect x="1630" y="3285" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3303" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3285" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3303" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3285" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3303" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3348" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">67 | 464188580 | sw 82 | glif stored grid</text>
+<rect x="1630" y="3330" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3348" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3330" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3348" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="3330" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3348" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3393" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">68 | 464188580 | sw 82 | glif recording grid</text>
+<rect x="1630" y="3375" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3393" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3375" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3393" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="3375" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3393" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3438" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">69 | 464188580 | sw 82 | perisomatic recording grid playback</text>
+<rect x="1630" y="3420" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3438" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3420" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3438" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2470" y="3420" width="240" height="35" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3438" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="150" y="3483" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">70 | 464188580 | sw 47 | glif stored grid</text>
+<rect x="1630" y="3465" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3483" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3465" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3483" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3465" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3483" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3528" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">71 | 464188580 | sw 47 | glif recording grid</text>
+<rect x="1630" y="3510" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3528" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3510" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3528" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3510" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3528" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="150" y="3573" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">72 | 464188580 | sw 47 | perisomatic recording grid playback</text>
+<rect x="1630" y="3555" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="1750" y="3573" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="2050" y="3555" width="240" height="35" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="2170" y="3573" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<rect x="2470" y="3555" width="240" height="35" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="2590" y="3573" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<rect x="150" y="3690" width="90" height="45" fill="#1F4E79" stroke="#222222" stroke-width="2"/>
+<text x="195" y="3713" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">C</text>
+<text x="260" y="3713" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">calculated</text>
+<rect x="800" y="3690" width="90" height="45" fill="#E8E8E8" stroke="#222222" stroke-width="2"/>
+<text x="845" y="3713" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SA</text>
+<text x="910" y="3713" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">no in-window spike</text>
+<rect x="1450" y="3690" width="90" height="45" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<text x="1495" y="3713" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">PS</text>
+<text x="1560" y="3713" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">not applicable to protocol</text>
+<rect x="2100" y="3690" width="90" height="45" fill="#F5DFC2" stroke="#222222" stroke-width="2"/>
+<text x="2145" y="3713" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">SO</text>
+<text x="2210" y="3713" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">insufficient coverage</text>
+</svg>

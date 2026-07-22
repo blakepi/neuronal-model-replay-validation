@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3200" height="2000" viewBox="0 0 3200 2000" role="img" aria-labelledby="title desc">
+<title id="title">Initialization and equilibration sensitivity by cell</title>
+<desc id="desc">Initialization and equilibration sensitivity by cell</desc>
+<rect width="3200" height="2000" fill="#FFFFFF"/>
+<text x="150" y="100" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#1F4E79" text-anchor="start" dominant-baseline="middle">Initialization/equilibration sensitivity</text>
+<text x="150" y="185" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#9E3D36" text-anchor="start" dominant-baseline="middle">All 24 original pre-stimulus periods drifted; all 24 extended periods converged.</text>
+<text x="170" y="535" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">314822529</text>
+<rect x="1350" y="480" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="535" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="480" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="535" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="480" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="535" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="480" width="170" height="110" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="535" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="2250" y="535" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">3/4 met change criterion</text>
+<text x="170" y="610" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="170" y="755" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">324493977</text>
+<rect x="1350" y="700" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="755" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="700" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="755" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="700" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="755" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="700" width="170" height="110" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="755" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="2250" y="755" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">3/4 met change criterion</text>
+<text x="170" y="830" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="170" y="975" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">473943881</text>
+<rect x="1350" y="920" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="975" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="920" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="975" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="920" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="975" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="920" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="975" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="2250" y="975" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">4/4 met change criterion</text>
+<text x="170" y="1050" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="170" y="1195" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">471087830</text>
+<rect x="1350" y="1140" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="1195" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="1140" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="1195" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="1140" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="1195" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="1140" width="170" height="110" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="1195" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="2250" y="1195" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">3/4 met change criterion</text>
+<text x="170" y="1270" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="170" y="1415" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">475585413</text>
+<rect x="1350" y="1360" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="1415" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="1360" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="1415" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="1360" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="1415" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="1360" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="1415" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<text x="2250" y="1415" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">4/4 met change criterion</text>
+<text x="170" y="1490" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="170" y="1635" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">464188580</text>
+<rect x="1350" y="1580" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1435" y="1635" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1550" y="1580" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1635" y="1635" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1750" y="1580" width="170" height="110" fill="#C76E00" stroke="#222222" stroke-width="3"/>
+<text x="1835" y="1635" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">M</text>
+<rect x="1950" y="1580" width="170" height="110" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+<text x="2035" y="1635" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#222222" text-anchor="middle" dominant-baseline="middle">N</text>
+<text x="2250" y="1635" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#222222" text-anchor="start" dominant-baseline="middle">3/4 met change criterion</text>
+<text x="170" y="1710" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#777777" text-anchor="start" dominant-baseline="middle">original period drifting 4/4 | extended period converged 4/4</text>
+<text x="150" y="1830" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#222222" text-anchor="start" dominant-baseline="middle">M = met a prespecified material-change criterion; N = did not. Every cell had at least three M cases.</text>
+</svg>
