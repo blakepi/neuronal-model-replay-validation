@@ -155,6 +155,17 @@ def test_release_manifest_accepts_untampered_inventory(tmp_path: Path) -> None:
     assert verifier.verify_release_manifest(tmp_path, manifest) == 1
 
 
+def test_release_manifest_ignores_git_metadata(tmp_path: Path) -> None:
+    verifier = load_verifier()
+    payload = tmp_path / "payload.txt"
+    payload.write_text("stable\n", encoding="utf-8")
+    manifest = write_manifest(tmp_path, [manifest_row(payload, "payload.txt")])
+    git_head = tmp_path / ".git" / "HEAD"
+    git_head.parent.mkdir()
+    git_head.write_text("ref: refs/heads/main\n", encoding="utf-8")
+    assert verifier.verify_release_manifest(tmp_path, manifest) == 1
+
+
 def test_release_manifest_names_tampered_file(tmp_path: Path) -> None:
     verifier = load_verifier()
     payload = tmp_path / "payload.txt"

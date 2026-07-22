@@ -344,7 +344,10 @@ def scientific_checks(root: Path) -> tuple[list[Check], dict[str, Any]]:
 def _ignored_generated_path(relative: str) -> bool:
     parts = PurePosixPath(relative).parts
     return (
-        any(part in {".venv", "__pycache__", ".pytest_cache", ".ruff_cache"} for part in parts)
+        any(
+            part in {".git", ".venv", "__pycache__", ".pytest_cache", ".ruff_cache"}
+            for part in parts
+        )
         or any(part.endswith(".egg-info") for part in parts)
         or relative in {"benchmark.json", ".coverage"}
     )
