@@ -9,7 +9,7 @@ cell-matched neuronal model replay.
 
 - The case study contains six cells from six mice: one method-development specimen and five
   evaluation specimens, with 24 recording selections and 72 condition-specific cases.
-- Of 216 prespecified outcome records, 122 were calculated and 94 were non-evaluable for explicit
+- Of 216 case-outcome records, 122 were calculated and 94 were non-evaluable for explicit
   scientific reasons.
 - None of five original playback methods met every acceptance criterion for all five synthetic
   waveforms at the original 0.025 ms solver step.
@@ -29,9 +29,10 @@ python -m pytest
 neuronal-model-replay-validation benchmark --output benchmark.json
 ```
 
-The benchmark produces 25 method-waveform results; three tested configurations meet all waveform
-criteria. See [Reproducibility](docs/REPRODUCIBILITY_GUIDE.md) for package verification and data
-retrieval, and [Methodology and scope](docs/METHODOLOGY_AND_SCOPE.md) for definitions and limits.
+The benchmark produces 25 original method-waveform results. No original method passes every
+waveform; three separately labeled post hoc reference configurations meet all waveform criteria.
+See [Reproducibility](docs/REPRODUCIBILITY_GUIDE.md) for package verification and data retrieval,
+and [Methodology and scope](docs/METHODOLOGY_AND_SCOPE.md) for definitions and limits.
 
 ## Contents
 
